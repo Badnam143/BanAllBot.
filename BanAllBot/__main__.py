@@ -4,8 +4,9 @@ from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup , Callback
 
 START_MSG="""
 ʜᴇʏ **{}** , ɪ ᴀᴍ {},
-ɪ ʜᴀᴠᴇ sᴏᴍᴇ ɪɴᴛᴇʀᴇsᴛɪɴɢ ᴘʟᴜɢɪɴs ʏᴏᴜ sʜᴏᴜʟᴅ ᴛʀʏ ɪᴛ ʙʏ ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ᴛʜᴇ ʜᴇʟᴘ ʙᴜᴛᴛᴏɴ.
-ᴀᴅᴅ ᴍᴇ ɪɴ ᴏᴛʜᴇʀs ɢʀᴏᴜᴘ ᴛᴏ ᴅᴇsᴛʀᴏʏ ɪᴛ.
+Mera naam hai badnam dushmano ki gand faar chudayi Krna hai mera kaam,
+Help button pe ungli dawa or mere commands yaad krle bsdk. Baad me bolna nhi bot bekar h nhi to teri bhi ma chod dunga nikl ab.
+
 """
 START_BUTTONS=InlineKeyboardMarkup (
       [
@@ -33,7 +34,7 @@ HELP_MSG="""
 
 ⨷/unpinall : ᴜɴᴘɪɴ ᴀʟʟ ᴍᴇssᴀɢᴇs ɪɴ ᴀ ɢʀᴏᴜᴘ.
 
-ᴄʀᴇᴀᴛᴇᴅ ʙʏ: [𒆜𝐌𝚁°᭄𝐃𝙰𝚇𝚇 ࿐™](https://t.me/iam_daxx)
+ᴄʀᴇᴀᴛᴇᴅ ʙʏ: [🅱︎🄰🅳︎🄽🅰︎🄼乂🅻︎🄰🅳︎🄺🅰︎🚬](https://t.me/badnam_ji)
 """
 
 
